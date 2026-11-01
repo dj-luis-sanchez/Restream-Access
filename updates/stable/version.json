@@ -1,0 +1,22 @@
+{
+  "version": "1.1.0",
+  "level": "normal",
+  "title": "Restream Access 1.1",
+  "publishedAt": "2026-10-31T23:30:00-06:00",
+  "changes": [
+    "Nuevo actualizador ligero y accesible basado en GitHub Releases.",
+    "Muestra los cambios antes de actualizar.",
+    "Las actualizaciones normales e importantes son opcionales.",
+    "Las actualizaciones críticas solo pueden bloquear funciones concretas indicadas en el manifiesto.",
+    "Verificación SHA-256 antes de instalar una actualización.",
+    "Corrección de permisos OAuth para administración de destinos.",
+    "Mejoras de accesibilidad para NVDA en el flujo de actualización."
+  ],
+  "portableUrl": "",
+  "installerUrl": "",
+  "sha256Portable": "",
+  "sha256Installer": "",
+  "releasePageUrl": "https://github.com/dj-luis-sanchez/Restream-Access/releases",
+  "minimumSupportedVersion": "1.0.0",
+  "blockedFeatures": []
+}
